@@ -1,4 +1,4 @@
-
+Generates [this spreadsheet](https://docs.google.com/spreadsheets/d/1GGQfe-uAkU95A7ULMgTFGZEQ0DmQ98-iX6RwwB9zm1E/edit?usp=sharing), which summarizes 3000 actors appearances as either "self" or an acting role. This lets you see how often these people present themselves as themselves versus a role.
 
 ## Inspiration
 
